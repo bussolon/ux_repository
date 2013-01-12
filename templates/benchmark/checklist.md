@@ -1,4 +1,15 @@
+
+## Summary
+
 A checklist of the elements to verify - analyze when doing a benchmark or an expert evaluation.
+
+## Sources
+
+The checklist is based on some interesting examples:
+
+* Syntagm: [User Experience Benchmarking for E-Commerce](http://www.syntagm.co.uk/design/uxbench.shtml)
+* Infodesign.com.au: [Web evaluation materials](http://infodesign.com.au/usabilityresources/webevaluation/) [pdf](http://infodesign.com.au/wp-content/uploads/WebCheck.pdf)
+* WebsiteCriteria: [Website benchmarking](http://www.websitecriteria.com/Website_research/Website_benchmarking.html) [pdf](http://www.websitecriteria.com/Website_research/documents/SAMPLEWebsiteCriteriabenchmarkingreport.pdf)
 
 ## Website Benchmark checklist
 
